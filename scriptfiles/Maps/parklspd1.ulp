@@ -1,0 +1,6 @@
+CreateDynamicObject(2885, 1581.09998, -1676.69995, 11.6, 0, 0, 90,-1,-1,-1,MAX_RADIO_STREAM);
+CreateDynamicObject(1215, 1581.09998, -1670.90002, 5.5, 0, 0, 0,-1,-1,-1,MAX_RADIO_STREAM);
+CreateDynamicObject(1215, 1582.5, -1671, 5.5, 0, 0, 0,-1,-1,-1,MAX_RADIO_STREAM);
+CreateDynamicObject(1215, 1584, -1671.09998, 5.5, 0, 0, 0,-1,-1,-1,MAX_RADIO_STREAM);
+CreateDynamicObject(1215, 1585.40002, -1671.19995, 5.5, 0, 0, 0,-1,-1,-1,MAX_RADIO_STREAM);
+CreateDynamicObject(1215, 1586.69995, -1671.30005, 5.5, 0, 0, 0,-1,-1,-1,MAX_RADIO_STREAM);

@@ -1,0 +1,236 @@
+[QUOTE=Otavio_Santos;876388][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][CENTER][IMG]https://lh4.googleusercontent.com/-s6lq-DKb5qE/UnLbYTPocSI/AAAAAAAAC2s/kD01SyDw2K0/s600/2nkpgy0.png[/IMG][/CENTER]
+[FONT=century gothic][SIZE=7][CENTER][COLOR=#800000][B]FICHA DE DATOS[/B][/COLOR] 
+[/CENTER]
+[/SIZE][/FONT][FONT=century gothic]  
+[/FONT][RIGHT][FONT=century gothic][SIZE=1]Página 1[/SIZE][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][COLOR=#8B0000][SIZE=7][CENTER][B]Datos Personales[/B][/CENTER]
+[/SIZE][/COLOR][/FONT][FONT=century gothic]  
+[SIZE=2]  
+[/SIZE][SIZE=2][B]Nombre y Apellido:[/B] [I]Otavio Santos.[/I][/SIZE]
+
+[SIZE=2][B]Edad:[/B][/SIZE][SIZE=2] [I]27.
+[/I]
+[/SIZE][SIZE=2][B]Ciudad de Residencia:[/B][/SIZE][SIZE=2] [I]San Fierro.[/I]
+
+[/SIZE][SIZE=2][B]Número de Teléfono:[/B][/SIZE][SIZE=2] [I]777777.[/I]
+
+[/SIZE][SIZE=2][B]Cuenta Bancaria:[/B][/SIZE][SIZE=2] [I]8517931.[/I]
+
+[/SIZE][SIZE=2][B]Licencias Obtenidas:[/B][/SIZE][SIZE=2] [I]Coche, camión, vuelo y botes.[/I]
+
+[/SIZE][SIZE=2][B]Estado Civil:[/B][/SIZE][SIZE=2] [I]Soltero.[/I][/SIZE] 
+
+[SIZE=2][B]Hijos (SI/NO):[/B][/SIZE][SIZE=2] [I]No.[/I][/SIZE]
+
+[/FONT][RIGHT][FONT=century gothic][SIZE=1]Página 2[/SIZE][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][COLOR=#8B0000][SIZE=7][CENTER][B]Experiencia Laboral[/B][/CENTER]
+[/SIZE][/COLOR][/FONT][FONT=century gothic]  
+[B]1.-  
+Nombre de la Empresa: [/B][I]San Fierro Medical Department.[/I]
+[B]Cargo: [/B]Paramédico.
+[B]Funciones: [/B][I]Atender llamados de emergencia en ambulancia, curar enfermedades y levantamiento de cuerpos..[/I]
+[B]Razón de su retiro: [/B][I]Renuncia.[/I]
+
+[B]2.-  
+Nombre de la Empresa: [/B][I]Responder Aquí.[/I]
+[B]Cargo: [I]Responder Aquí.[/I][/B]
+[B]Funciones: [/B][I]Responder Aquí.[/I]
+[B]Razón de su retiro: [/B]Responder Aquí.
+
+[B]3.-  
+Nombre de la Empresa: [/B][I]Responder Aquí.[/I]
+[B]Cargo: [/B][I]Responder Aquí.[/I]
+[B]Funciones: [/B][I]Responder Aquí.[/I]
+[B]Razón de su retiro: [/B][I]Responder Aquí.[/I]
+
+[/FONT][CENTER][FONT=century gothic][I]En caso de no poseer alguna experiencia laboral, dejar en blanco.[/I][/FONT][/CENTER]
+[RIGHT][FONT=century gothic]
+
+[SIZE=1] Página 3[/SIZE][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][COLOR=#8B0000][SIZE=7][CENTER][B]Preguntas[/B][/CENTER]
+[/SIZE][/COLOR][/FONT][FONT=century gothic]  
+[B]4.- ¿Qué sabe de la Empresa Shipment Trucks?[/B]
+[I]Sí, ésta empresa se dedica al transporte de carga, abastecimiento de negocios y abastecimiento de gasolineras.[/I]
+
+[B]5.- ¿Por qué quiere pertenecer a esta Empresa?[/B] 
+[I]Desde que llegué a la ciudad he pensado solo en ser camionero, pero por cosas de la vida .resulté siendo médico. Ser camionero ha sido un sueño desde siempre.[/I]
+
+[B]6.- ¿Qué nos podrías ofrecer como trabajador?[/B]
+[I]Responsabilidad, mucha seriedad además de lo más importante, trabajar duro y ayudar a otros.[/I]
+
+[B]7.- ¿Por qué deberíamos contratarte?[/B]
+[I]Pienso que soy un buen elemento en cualquiera rama en la que me empeñe en ayudar, además de aportar trabajo en equipo que de éste modo podría crecer más la empresa, ayudando y haciendo que los demás estén interesados en ayudar.[/I]
+
+[B]8.- ¿Tiene antecedentes penales y por qué?[/B]
+[I]No, ninguno.[/I]
+
+[/FONT][RIGHT][FONT=century gothic][SIZE=1]Página 4[/SIZE][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][COLOR=#8B0000][SIZE=7][CENTER][B]Cuestionario[/B][/CENTER]
+[/SIZE][/COLOR][/FONT]  
+[B]9.- ¿Que fue lo que te ha motivado para postular a la Empresa Shipment Trucks?[/B]
+[I]Bueno, llevo un buen tiempo estando atento a que abran postulaciones y hoy justo leí la gran noticia de que las habían abierto, no hice más sino empezar a organizar el papeleo.[/I] 
+
+[B]10.- ¿Qué opina de la Empresa Shipment Trucks?[/B]   
+[I][FONT=century gothic]Creo que es una empresa fundamental en todo San Andreas, sin ella no tendríamos comida ni productos de uso general, además de gasolina, algo fundamental para el transporte.[/FONT][/I]
+
+[B]11.- ¿Qué sugiere usted para mejorar nuestra calidad de servicio?[/B] 
+[I]A mi parecer todo está bien, no creo que se deba cambiar nada.[/I]
+
+[B]12.- ¿Cuáles son sus pretensiones salariales? (Pago Semanal)[/B]
+[I]Como médico ganaba diez y ocho mil (18000) dólares, es una buena suma de dinero, pero quisiera aspirar a más.[/I]
+
+[B]13.- ¿Qué haría usted si el encargado de un negocio no paga correctamente el precio del material?[/B]
+[I][FONT=century gothic]Lo primero que se debe hacer es informar a la directiva de ese asunto y esperar respuesta de ellos, no actuar sin tener autorización.[/FONT][/I]
+
+[B]14.- ¿Qué medidas podría usted tomar si al momento de abastecer una gasolinera un civil brinca los conos de precaución?[/B]
+[I][FONT=century gothic]Detener las acciones que estoy realizando y avisar al transeúnte amablemente que se retire.[/FONT][/I]
+
+[RIGHT][FONT=century gothic][SIZE=1]Página 5[/SIZE][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][SIZE=7][CENTER][COLOR=#8B0000][B]Examen[/B][/COLOR][B][B][COLOR=#000080] Médico[/COLOR][COLOR=#000000]
+[/COLOR][/B][/B][/CENTER]
+[/SIZE][/FONT][CENTER][IMG]https://i.gyazo.com/8d287900eca83e32cde85820451f9648.png[/IMG][FONT=century gothic][SIZE=4] 
+[/SIZE][/FONT][SIZE=4][FONT=century gothic]((Screenshot - SS))[/FONT][/SIZE]
+[SIZE=4][COLOR=#333333][FONT=century gothic]
+(( [/FONT][/COLOR][/SIZE][URL]https://foro.unplayer.com/showthread.php/204967-Certificado-Medico-Otavio-Santos[/URL] ))[SIZE=4][COLOR=#333333][FONT=century gothic]
+(( Link del Certificado ))[/FONT][/COLOR][/SIZE][/CENTER]
+[RIGHT][FONT=century gothic][COLOR=#696969][SIZE=1]Página 6[/SIZE][/COLOR][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[FONT=century gothic]
+[/FONT][TABLE="class: grid, width: 1000, align: center"]
+[TR]
+[TD][FONT=century gothic][SIZE=7][CENTER][COLOR=#8B0000][B]Certificado[/B][/COLOR][B][B][COLOR=#000080] De conducción[/COLOR][COLOR=#000000]
+[/COLOR][/B][/B][/CENTER]
+[/SIZE][/FONT][CENTER][IMG]https://i.gyazo.com/8abfd377b9b1f9d10fd850cd30139bcc.png[/IMG][FONT=century gothic][SIZE=4]
+((Screenshot - SS))
+
+
+[/SIZE][/FONT](( [URL]https://foro.unplayer.com/showthread.php/204952-Certificado-de-Conducci%C3%B3n-Otavio-Santos[/URL] ))[FONT=century gothic][SIZE=4]
+[/SIZE][/FONT][SIZE=4][COLOR=#333333][FONT=century gothic](( Link del Certificado ))[/FONT][/COLOR][/SIZE][FONT=century gothic]
+
+[COLOR=#696969] 
+[/COLOR][/FONT][/CENTER]
+[RIGHT][FONT=century gothic][COLOR=#696969][SIZE=1]Página 7[/SIZE][/COLOR][/FONT][/RIGHT]
+[/TD]
+[/TR]
+[/TABLE]
+[HR][/HR][FONT=century gothic]
+
+[/FONT][OOC][FONT=century gothic][SIZE=4][COLOR=maroon][B]Datos personales[/B][/COLOR][/SIZE]
+
+[B]Nombre: [/B][I]David Santos.[/I]
+[B]Edad: [/B][I]22.[/I]
+[B]País: [/B][I]Colombia.[/I]
+[B]Nivel en el servidor (score): [/B][I]12.[/I]
+[B]¿Posees TS3? - ¿Tienes Micrófono?: [/B][I]Sí y sí.[/I]
+[B]Horas diarias en el servidor: [/B][I]De 6 a 10 aproximadamente.[/I]
+[B]Horas diarias en el foro: [/B][I]De 3 a 5 aproximadamente.[/I]
+[B]Calfica tu nivel de Rol (Calificar utilizando 1/10): [/B][I]8/10.[/I][/FONT]
+
+[HR][/HR]
+
+[FONT=century gothic][SIZE=4][COLOR=maroon][B]Test de rol [/B][/COLOR][/SIZE]
+
+[B]¿Qué es confusión de canales?:[/B] [I]Escribir cosas IC en canales OOC o viceversa, como cuando te preguntan algo por OOC y respondes por IC.[/I]
+[B]¿Qué es IOOC?: [/B]Insultar a un jugador por canales OOC.
+[B]¿Qué es MG?:[/B] [I]MetaGaming: Es utilizar información OOC para beneficio IC del personaje.[/I]
+[B]¿Qué es PG?:[/B] [I]PowerGaming: Es realizar acciones que en la vida real no puedes hacer.[/I] 
+[B]¿Qué es DM?:[/B] [I]DeathMatch: Es asesinar a otro jugador sin rol o sin ninguna razón.[/I]
+[B]¿Qué es CJ?:[/B] [I]CarJacking: Es robar o sacar a otro jugador de un vehículo sin ningún rol.[/I]
+[B]¿Qué es BJ?: [/B][I]BunnyJump: Es correr y saltar al mismo tiempo.[/I]
+[B]¿Qué es CHK?: [/B][I]CharacterKill: Asesinar a otro jugador con rol, donde el jugador asesinado perderá su rol IC, ya que es asesinado con rol.[/I]
+[B]¿Qué es CK?: [/B][I]CarKill: Asesinar a otro usuario aplastándolo con el vehículo.[/I] 
+[B]¿Qué es TK?:[/B] [I]TeamKill: Asesinar a un miembro de tu misma facción.[/I]
+[B]¿Qué es RK?:[/B][I]RevengeKill: Es ir al lugar donde te han asesinado para cobrar venganza de la persona que te mató, siendo que tu perdiste la memoria y no podrías saber IC quien lo hizo.[/I][/FONT]
+[HR][/HR]
+[CENTER][FONT=century gothic][B]Realiza un Rol detallado de Mínimo 20 Lineas de un abastecimiento de una gasolinera o un negocio utilizando el [COLOR=#800080]/ME[/COLOR],[COLOR=#FFD700]/AME,[/COLOR] [COLOR=#00FF00]/Inte[/COLOR][COLOR=#FF0000]ntar[/COLOR]
+
+
+[CENTER][COLOR=green]Rol de abastecer Gasolinera.[/COLOR][/CENTER]
+
+
+[COLOR=orange][B]**En la Empresa.**[/B][/COLOR]
+
+[ME]Otavio Santos sale de la oficina del jefe con una solicitud.[/ME]
+[COLOR=yellow]|__________ Hoja __________|
+
+1º-Tarea: Llenar la gasolinera de unity estation.
+|__________________________|[/COLOR]
+[ME]Otavio Santos sube a su camión, gira la llave acto seguido enciende su vehículo.[/ME]
+[COLOR=yellow]Vehículo: Encendido[/COLOR]
+[ME]Otavio Santos se dirige a el almacén para repostar gas al camión cisterna.[/ME]
+[ME]Otavio Santos apaga el camión.[/ME]
+[ME]Otavio Santos baja del camión y abre su maletero para luego sacar la manguera y conectarla a los dos extremos.[/ME]
+[ME]Otavio Santos va hacia el depósito y empieza a extraer el gas hacia el camión.[/ME]
+[ME]Otavio Santos empieza a repostar gas al camión.[/ME]
+[COLOR=yellow]Reponstando gas.[/COLOR]
+[COLOR=green]**Otavio Santos intentó llenar el camión cisterna con gasolina y consiguió hacerlo.[/COLOR]
+[COLOR=yellow]Gas repostado.
+Camión Cisterna Cargado con 40 mil Litros.[/COLOR]
+[ME]Otavio Santos sube a su camión, gira la llave acto seguido enciende su vehículo.[/ME]
+[COLOR=yellow]Vehículo: Encendido[/COLOR]
+[ME]Otavio Santos sale de la empresa.[/ME]
+[ME]Otavio Santos habla por por radio e informa al jefe[/ME]
+[COLOR=navy]Conductor De Camión Otavio Santos Habla por radio: Aquí el conductor Santos, informo que terminé de recargar de gasolina el camión cisterna, procedo a llevar la gasolina hacia sus respectivas gasolineras, corto.[/COLOR]
+[ME]Otavio Santos recoge la manguera, la guarda en la maletero[/ME]
+[ME]Otavio Santos sube al camión, lo acelera y pone primera lentamente.[/ME]
+[ME]Otavio Santos va hacia la puerta le pide al vigilante que le abra.[/ME]
+[ME]Otavio Santos mira hacia los lados y sale lentamente.[/ME]
+[COLOR=yellow]Se puede ver el Camión de Otavio Santos a una velicidad moderada de 60 KM/H.[/COLOR]
+[ME]Otavio Santos al llegar a la ciudad pasa por el peaje y empieza a bajar su velocidad.[/ME]
+[ME]Otavio Santos cuidadosamente se adentra en la ciudad y llega a Unity station[/ME]
+[ME]Otavio Santos estaciona bien su camión seguidamente baja del mismo y cierra bien.[/ME]
+[ME]Otavio Santos habla con el encargado de la gasolinera y le da los papeles de entrega.[/ME]
+[COLOR=black]Otavio Santos: Buenas tardes, aquí traigo cuarenta mil litros para llenar la gasolinera.[/COLOR]
+[COLOR=black]Encargado: Ok, firmare aquí que ha venido a llenar la gasolinera.[/COLOR]
+[ME]Otavio Santos  se dirige hacia su camión para empezar a sacar unos conos.[/ME]
+[ME]Otavio Santos empieza a colocar uno a uno cada cono en la entrada y salida de la gasolinera.[/ME]
+[COLOR=yellow]Se puede notar que los conos obstruyen los accesos a la gasolinera para evitar así su uso.[/COLOR]
+[ME]Otavio Santos abre la alcantarilla de la gasolineria, abre la tapa de su camión y saca la manguera.[/ME]
+[ME]Otavio Santos Conecta los dos extremos, agarra el medidor y empieza a vaciar la gasolina en el depósito de la gasolinera.[/ME]
+[COLOR=green]**Otavio Santos intentó Vaciar la gasolina en el depósito y consiguió hacerlo.[/COLOR]
+[ME]Otavio Santos al ver la cantidad exacta cierra la valvula de paso y empieza a recoger los conos.[/ME]
+[COLOR=yellow]Gasolinera llena al con 40mil litros.
+Se puede ver que el paso de vehículos se habilita nuevamente.[/COLOR]
+[ME]Otavio Santos abre su camión, sube y arranca hacia la empresa a esperar ordenes.[/ME]
+
+[CENTER][COLOR=green]FIN DEL ROL.[/COLOR][/CENTER]
+
+
+
+[/B][/FONT][/CENTER]
+[/OOC][/QUOTE]
+
